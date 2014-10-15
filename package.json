@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-ted",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "NodeBB TED Plugin",
   "main": "library.js",
   "scripts": {

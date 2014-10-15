@@ -1,7 +1,7 @@
 (function(module) {
 	"use strict";
 
-	var ted = {},
+	var Ted = {},
 		embed = '<iframe src="https://embed-ssl.ted.com/talks/$1" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>';
 
 
