@@ -8,4 +8,4 @@ This NodeBB plugin allows users to embed Ted videos inline in their posts. See d
 
 ## Screenshots
 
-![youtube-plugin.png](http://i.imgur.com/EdDQP14.png) 
+![ted-plugin.png](https://i.imgur.com/XOKbuzo.png) 
