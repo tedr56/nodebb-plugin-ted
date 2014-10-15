@@ -1,0 +1,13 @@
+{
+	"id": "nodebb-plugin-ted",
+	"name": "NodeBB Ted Plugin",
+	"description": "NodeBB Plugin that allows users to embed Ted videos inline in their posts.",
+	"url": "https://github.com/psychobunny/nodebb-plugin-ted",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true, "priority": 6 }
+	],
+	"css": [
+		"static/style.css"
+	]
+}
