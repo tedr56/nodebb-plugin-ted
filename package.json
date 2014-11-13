@@ -3,12 +3,9 @@
   "version": "0.1.0",
   "description": "NodeBB TED Plugin",
   "main": "library.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-ted"
+    "url": "https://github.com/tedr56/nodebb-plugin-ted"
   },
   "nbbpm": {
     "compatibility": "^0.5.0"
@@ -21,12 +18,12 @@
     "embed"
   ],
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "tedr56",
+    "url": "https://github.com/tedr56/"
   },
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-ted/issues"
+    "url": "https://github.com/tedr56/nodebb-plugin-ted/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",
