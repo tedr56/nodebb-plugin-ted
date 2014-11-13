@@ -6,6 +6,10 @@ This NodeBB plugin allows users to embed Ted videos inline in their posts. See d
 
     npm install nodebb-plugin-ted
 
+## Use
+
+    Just drop the link to your Ted's Condeference page in the NodeBB Compositor.
+
 ## Screenshots
 
 ![ted-plugin.png](https://i.imgur.com/XOKbuzo.png) 
