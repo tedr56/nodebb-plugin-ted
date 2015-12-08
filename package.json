@@ -8,7 +8,7 @@
     "url": "https://github.com/tedr56/nodebb-plugin-ted"
   },
   "nbbpm": {
-    "compatibility": "^0.6.0"
+    "compatibility": "^0.7.0 || ^0.8.0 || ^0.9.0"
   },
   "keywords": [
     "nodebb",
